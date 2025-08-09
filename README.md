@@ -1,2 +1,1 @@
-# https-crypoez.vercel.app-
-🚀 CrypoEZ – Your ultimate crypto companion 💰✨. Track real-time prices ⚡, explore market trends 📊, and dive into detailed coin stats 🔍. With a clean, responsive design 📱💻, CrypoEZ keeps you connected to the fast-moving world of digital assets 🌐 — anytime, anywhere. 🔗 Open App
+🚀 CrypoEZ – Your ultimate crypto companion 💰✨. Track real-time prices ⚡, explore market trends 📊, and dive into detailed coin stats 🔍. With a clean, responsive design 📱💻, CrypoEZ keeps you connected to the fast-moving world of digital assets 🌐 — anytime, anywhere. 🔗 [Open App](https://crypoez.vercel.app/)
